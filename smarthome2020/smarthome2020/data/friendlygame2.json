@@ -1,0 +1,111 @@
+[
+  {
+    "type": "Balanced",
+    "timestamp": 5000,
+    "location": "C",
+    "tag": "long beep",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 14000,
+    "location": "D",
+    "tag": "beep x3",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Offensive",
+    "timestamp": 30000,
+    "location": "E",
+    "tag": "gogo",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 35000,
+    "location": "D",
+    "tag": "beep x3",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Defensive",
+    "timestamp": 42000,
+    "location": "C",
+    "tag": "low frequency beep",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Balanced",
+    "timestamp": 48000,
+    "location": "C",
+    "tag": "long beep",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Defensive",
+    "timestamp": 51000,
+    "location": "A",
+    "tag": "low frequency beep",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Counter",
+    "timestamp": 54600,
+    "location": "D",
+    "tag": "beep x2",
+    "flag": "off",
+    "priority": 2,
+    "note": ""
+  },
+  
+  {
+    "type": "Trap",
+    "timestamp": 83300,
+    "location": "B",
+    "tag": "sinwave beep",
+    "flag": "on",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Defensive",
+    "timestamp": 100000,
+    "location": "A",
+    "tag": "low frequency beep",
+    "flag": "off",
+    "priority": 1,
+    "note": ""
+  },
+  {
+    "type": "Offensive",
+    "timestamp": 114000,
+    "location": "D",
+    "tag": "gogo",
+    "flag": "on",
+    "priority": 2,
+    "note": ""
+  },
+  {
+    "type": "Defensive",
+    "timestamp": 142000,
+    "location": "B",
+    "tag": "low frequency beep",
+    "flag": "on",
+    "priority": 3,
+    "note": ""
+  }
+]

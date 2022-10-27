@@ -1,0 +1,6 @@
+
+
+I recorded my voice for both recordings but did not normalize or trim off any excess trailing silence except for the ends. The background music ducking is handled through a filter set in place that cut off at 800 which helps drown out the lower frequencies.The gain glide is automatically set at 1.5 to emphasize the current voice being played/ The background music gain, vo1 gain, and vo2 gain all go through the master gain and when vo1 and vo2 are finished the background music unducks.
+
+
+

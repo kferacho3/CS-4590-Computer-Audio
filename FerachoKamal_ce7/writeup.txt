@@ -1,0 +1,9 @@
+FreeSound Source URL: 
+https://www.soundboard.com/sb/sound/993667
+ (I was looking for this specific sound on FreeSound and couldn't find it. I hope using a different website fine since the audio file is still a wav file.)
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+The gain and reverb have a range of values from 10 - 100 and 0 - 100 respectively. The play button is used to replay the sound. The Reverb UGen was used and lies between the sample player and gain UGen. The reverb has 3 parameters used to modify the reverb and impressions of the walls of the room. The reverb is modified by simply sliding the level on the slider which controls the amount of reverberated sound at the end of the play. The Gain slider operates similarly but instead just controls the loudness. Both of these sliders values are divided by 20 to account for their respective ranges.
